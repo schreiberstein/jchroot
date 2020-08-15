@@ -37,7 +37,7 @@
  * The time namespace feature has been introduced with Linux Kernel 5.6 (03/29/2020).
  */
 #ifndef CLONE_NEWTIME
-# include <linux/sched.h> */
+# include <linux/sched.h>
 #endif
 
 #ifdef CLONE_NEWTIME
